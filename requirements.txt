@@ -1,0 +1,6 @@
+f5-tts>=1.1.7
+soundfile>=0.13.1
+ruaccent>=1.5.8.3
+cached-path>=1.7.3
+torch==2.4.1+cu124 --extra-index-url https://download.pytorch.org/whl/cu124
+torchaudio==2.4.1+cu124 --extra-index-url https://download.pytorch.org/whl/cu124
